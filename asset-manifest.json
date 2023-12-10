@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thats-malhar/static/css/main.2ec5864f.css",
+    "main.js": "/thats-malhar/static/js/main.d11f1bcd.js",
+    "index.html": "/thats-malhar/index.html",
+    "main.2ec5864f.css.map": "/thats-malhar/static/css/main.2ec5864f.css.map",
+    "main.d11f1bcd.js.map": "/thats-malhar/static/js/main.d11f1bcd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ec5864f.css",
+    "static/js/main.d11f1bcd.js"
+  ]
+}
